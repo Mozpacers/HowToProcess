@@ -1,4 +1,4 @@
-# Slack Do's and Dont's
+# Slack Do's and Don'ts
 
 * Always use proper English. Grammar doesn't matter, but use of SMS language is strictly prohibited.
 * Don't post in CAPS until very necessary. CAPS generally implies someone is shouting.
@@ -7,7 +7,7 @@
 Ask admin before you pin something. Do not pin yourself.
 * Use star feature to save some important messages for yourself.
 * All new members should start with introducing themselves in #introduction channel.
-* All random talks should go into #random channel.
+* All random talks should go into #nonsense-talks channel.
 * Please judge the content and present in the appropriate channel accordingly.
 * Do not use emoticons everywhere. It doesn’t look professional.
 * Respect everyone and always communicate in the same manner.
