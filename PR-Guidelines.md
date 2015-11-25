@@ -10,3 +10,4 @@
 
 1. [GitHub](https://www.youtube.com/watch?v=Fwdg8-thBAc)
 2. [Git Flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+3. [Git and GitHub tutorial from udacity ](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
